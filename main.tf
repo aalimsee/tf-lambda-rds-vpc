@@ -1,7 +1,7 @@
 locals {
-  name_prefix = "sandbox"
+  name_prefix = "aalimsee"
   tags = {
-    Purpose = "CE 8 - Coaching 11"
+    Purpose = "CE9 - Coaching 11 - Lambda to RDS in VPC"
   }
 }
 
